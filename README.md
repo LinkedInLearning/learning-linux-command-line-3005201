@@ -1,34 +1,20 @@
 # Learning Linux Command Line
-This is the repository for the LinkedIn Learning course `Learning Linux Command Line`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Learning Linux Command Line. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![Learning Linux Command Line][lil-thumbnail-url] 
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks, it's more efficient and flexible than a graphical environment. For administrators, it plays a vital role in configuring permissions and working with files. In this course, experienced instructor Scott Simpson discusses the basics of setting up your environment and working with the Linux command line using the Bash shell. He focuses on practical Linux commands with examples that help you navigate through the file and folder structure, edit text, and set permissions. Scott also discusses some of the common command-line tools, such as grep, awk, and sed, and command-line apps such as the nano and Vim text editors. He covers output redirection and the PATH variable, then gives you a peek into more advanced topics. The course wraps up with a look at how to install and update software with a package manager.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Scott Simpson 
+                            
+Senior Staff Instructor
 
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson).
+
+[lil-course-url]: https://www.linkedin.com/learning/learning-linux-command-line-14447912
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3005201/3005201-1639765440825-16x9.jpg
