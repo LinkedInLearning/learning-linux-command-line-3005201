@@ -1,0 +1,7 @@
+{
+    "extensions": [
+      "GitHub.github-vscode-theme"
+    ],
+    "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
+    "postAttachCommand": "git pull --all"
+}
