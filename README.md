@@ -16,5 +16,5 @@ Senior Staff Instructor
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson).
 
-[lil-course-url]: https://www.linkedin.com/learning/learning-linux-command-line-14447912
-[lil-thumbnail-url]: https://cdn.lynda.com/course/3005201/3005201-1639765440825-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/learning-linux-command-line-14447912?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4D0DAQGtr8J3i_BSjg/learning-public-crop_288_512/0/1679938026141?e=2147483647&v=beta&t=mAPlrEexRYjAzZqU1Em9kfv9N0pV3GNneO0bk-DdwDk
