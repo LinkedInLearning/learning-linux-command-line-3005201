@@ -4,7 +4,7 @@
 
 `sudo apt install gcc make perl`
 
-## 02_03 - Write commands in a shell at the prompt123
+## 02_03 - Write commands in a shell at the prompt
 
 `ls`
 
